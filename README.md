@@ -7,3 +7,6 @@ Web Programming 2020 - basic hw
 
 ## 2020 04 02
 - Contents added
+
+## 2020 04 17
+- Simply designed
